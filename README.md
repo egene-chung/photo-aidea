@@ -8,7 +8,7 @@
 
 | 손윤지                                       | 정이진                                         | 정지은                                             |
 | -------------------------------------------- | ---------------------------------------------- | -------------------------------------------------- |
-| @깃허브 계정                                 | [@egene-chung](https://github.com/egene-chung) | [@stopsilver123](https://github.com/stopsilver123) |
+| [@yunjeee](https://github.com/yunjeee)                                 | [@egene-chung](https://github.com/egene-chung) | [@stopsilver123](https://github.com/stopsilver123) |
 | 프론트엔드                                   | AI                                             | 백엔드                                             |
 | 이화여자대학교 소프트웨어학부 컴퓨터공학전공 | 이화여자대학교 소프트웨어학부 컴퓨터공학전공   | 이화여자대학교 소프트웨어학부 컴퓨터공학전공       |
 
