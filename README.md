@@ -53,6 +53,7 @@ repository : [https://github.com/egene-chung/photo-aidea](https://github.com/ege
 3. python evaluate_mode.py 로 실행하여 학습시킨 CNN 모델 적용
 
 전체 코드 : [https://github.com/egene-chung/photo-aidea/blob/dev/photo_aidea_final.ipynb](https://github.com/egene-chung/photo-aidea/blob/dev/photo_aidea_final.ipynb)
+
 Documentation : https://egenechung.tistory.com/4
 ## Stacks
 
